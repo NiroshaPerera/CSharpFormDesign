@@ -1,0 +1,10 @@
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\obj\Debug\FinalMarksForProgramming.csproj.AssemblyReference.cache
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\obj\Debug\FinalMarksForProgramming.Properties.Resources.resources
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\obj\Debug\FinalMarksForProgramming.csproj.GenerateResource.cache
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\obj\Debug\FinalMarksForProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\obj\Debug\FinalMarksForProgramming.Form1.resources
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\bin\Debug\FinalMarksForProgramming.exe.config
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\bin\Debug\FinalMarksForProgramming.exe
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\bin\Debug\FinalMarksForProgramming.pdb
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\obj\Debug\FinalMarksForProgramming.exe
+C:\Users\Nirosha Perera\source\repos\FinalMarksForProgramming\obj\Debug\FinalMarksForProgramming.pdb
